@@ -1,6 +1,3 @@
-# rain-urp
-A rain puddles shader for Unity Shader Graph, Visual Effect Graph and Universal Render Pipeline
-
 # Rain Puddles in Unity URP
 
 A rain puddle effect using Unity Shader Graph, Visual Effect Graph and Universal Render Pipeline.
