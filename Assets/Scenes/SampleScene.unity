@@ -312,6 +312,7 @@ VFXRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 0}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -366,10 +367,10 @@ VisualEffect:
       m_Array:
       - m_Value:
           serializedVersion: 2
-          key0: {r: 0.15859732, g: 0.24966204, b: 0.3396226, a: 0}
-          key1: {r: 0.5226504, g: 0.72959185, b: 0.8207547, a: 0.5019608}
-          key2: {r: 0, g: 0, b: 0, a: 0.5019608}
-          key3: {r: 0, g: 0, b: 0, a: 0}
+          key0: {r: 0.15859732, g: 0.24966204, b: 0.3396226, a: 1}
+          key1: {r: 0.5226504, g: 0.72959185, b: 0.8207547, a: 1}
+          key2: {r: 0, g: 0, b: 0, a: 1}
+          key3: {r: 0, g: 0, b: 0, a: 1}
           key4: {r: 0, g: 0, b: 0, a: 0}
           key5: {r: 0, g: 0, b: 0, a: 0}
           key6: {r: 0, g: 0, b: 0, a: 0}
