@@ -1926,7 +1926,7 @@ VisualEffectResource:
         - m_ExpressionIndex: 44
           m_Value: 1
         - m_ExpressionIndex: 45
-          m_Value: 0.075
+          m_Value: 0.05
         - m_ExpressionIndex: 48
           m_Value: 0.25
         - m_ExpressionIndex: 62
@@ -4788,7 +4788,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.075
+      m_SerializableObject: 0.05
     m_Space: 2147483647
   m_Property:
     name: Size
